@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devmanzur
+- 👀 I’m interested in Everything dotnet and react
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on exciting full stack projects
+- 📫 How to reach me email: devmanzur@gmail.com
