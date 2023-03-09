@@ -46,10 +46,10 @@ Here are some ideas to get you started:
   - **🕹 Frameworks:** • [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) 
   
 #### What's interesting about me?  
-  - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
+  - 🧐 I love to be very **precise** and **thorough**.
   - ✍️ I write about **why a certain code is written instead of what** in the comments.
   - ⏱️ I'm not a **workaholic**, instead i believe in deepwork with peak concentration and finish my tasks early then i recharge.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
+  - 🧐 Love to explore up and coming technologies in .NET and JS landscape.
 
 <!--
 #### How to get in touch with me?
